@@ -1,2 +1,2 @@
 # Python-Center
-Here, you will get all python related projects, scripts or solutions
+Here, you will get all python related projects, scripts and solutions
